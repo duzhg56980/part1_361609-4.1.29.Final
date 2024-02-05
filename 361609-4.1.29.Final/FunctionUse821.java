@@ -1,0 +1,6 @@
+import io.netty.handler.stream.ChunkedStream;
+public class FunctionUse821 {
+public void funcUse() {
+ChunkedStream chunkedstream = new ChunkedStream();
+}
+}
